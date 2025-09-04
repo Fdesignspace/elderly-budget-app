@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/elderly-budget-app/static/css/main.92c8d4eb.css",
+    "main.css": "/elderly-budget-app/static/css/main.e3b7fa00.css",
     "main.js": "/elderly-budget-app/static/js/main.1e62afbf.js",
     "static/js/453.d3921e65.chunk.js": "/elderly-budget-app/static/js/453.d3921e65.chunk.js",
     "index.html": "/elderly-budget-app/index.html",
-    "main.92c8d4eb.css.map": "/elderly-budget-app/static/css/main.92c8d4eb.css.map",
+    "main.e3b7fa00.css.map": "/elderly-budget-app/static/css/main.e3b7fa00.css.map",
     "main.1e62afbf.js.map": "/elderly-budget-app/static/js/main.1e62afbf.js.map",
     "453.d3921e65.chunk.js.map": "/elderly-budget-app/static/js/453.d3921e65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c8d4eb.css",
+    "static/css/main.e3b7fa00.css",
     "static/js/main.1e62afbf.js"
   ]
 }
