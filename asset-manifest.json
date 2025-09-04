@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/elderly-budget-app/static/css/main.f855e6bc.css",
-    "main.js": "/elderly-budget-app/static/js/main.703cea01.js",
+    "main.css": "/elderly-budget-app/static/css/main.e6c13ad2.css",
+    "main.js": "/elderly-budget-app/static/js/main.215e9efc.js",
     "static/js/453.d3921e65.chunk.js": "/elderly-budget-app/static/js/453.d3921e65.chunk.js",
-    "static/media/logo.svg": "/elderly-budget-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/elderly-budget-app/index.html",
-    "main.f855e6bc.css.map": "/elderly-budget-app/static/css/main.f855e6bc.css.map",
-    "main.703cea01.js.map": "/elderly-budget-app/static/js/main.703cea01.js.map",
+    "main.e6c13ad2.css.map": "/elderly-budget-app/static/css/main.e6c13ad2.css.map",
+    "main.215e9efc.js.map": "/elderly-budget-app/static/js/main.215e9efc.js.map",
     "453.d3921e65.chunk.js.map": "/elderly-budget-app/static/js/453.d3921e65.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.703cea01.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.215e9efc.js"
   ]
 }
